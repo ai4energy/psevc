@@ -1,2 +1,2 @@
 # psevc
-Chinese corpus for PSE
+Corpus for PSE
